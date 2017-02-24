@@ -1,0 +1,63 @@
+body {
+	background-color: #CCFFFF;
+}
+
+.containerHead {
+	background-color: white;
+	width: 500px;
+	height: auto;
+	text-align: center;
+	float: right;
+	margin-right: 20px;
+	margin-top: 20px;
+	border: black solid 2px;
+}
+
+h1 {
+	font-family: 'Luckiest Guy', cursive;
+}
+
+#feyreButton {
+	width: 150px;
+	height: auto;
+	margin-top: 20px;
+	margin-left: 20px;
+	border: white solid 2px;
+}
+
+#rhysandButton {
+	width: 150px;
+	height: 185px;
+	border: white solid 2px;
+}
+
+#tamlinButton {
+	width: 150px;
+	height: 185px;
+	border: white solid 2px;
+}
+
+#amaranthaButton {
+	width: 150px;
+	height: 185px;
+	border: white solid 2px;
+}
+
+.character {
+	margin-left: 20px;
+	font-family: 'Racing Sans One', cursive;
+}
+
+p {
+	font-family: 'Racing Sans One', cursive;
+	margin-left: 20px;
+	font-style: inline;
+}
+
+.containerAttack {
+	margin-top: 100px;
+}
+
+button {
+	margin-left: 20px;
+}
